@@ -1,2 +1,3 @@
 # news_opensoft
-Basic news site 
+Static responsive news webiste 
+
